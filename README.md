@@ -7,12 +7,12 @@ I'm a Junior Software developer, I'm passionate about learning and sharing knowl
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her/Hers
-- 💡 Fun fact: If i could have a superpower, it would be to understand all the languages in the world. i can read and understand basic french and spanish 😊.
+- 💡 Fun fact: If i could have a superpower, it would be to understand all the languages in the world. I read and understand basic french and spanish 😊.
 - I am ex AltSchool student.
 - 🌱 I’m currently learning TypeScript and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front Engineer, (Intern or Entry level).
-- 📫 You can [view my resume]() and contact me by emailing itoro.ujames@gmail.com.
+- 📫 You can [view my resume](https://itoro-james.vercel.app/Resume) and contact me by emailing itoro.ujames@gmail.com.
 
 ---
 
