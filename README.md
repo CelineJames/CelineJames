@@ -7,11 +7,12 @@ I'm a Junior Software developer, I'm passionate about learning and sharing knowl
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her/Hers
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024, i can read and understand basic french and spanish 😊. 
-- 🌱 I’m currently learning JavaScript and Reactjs.
+- 💡 Fun fact: If i could have a superpower, it would be to understand all the languages in the world. i can read and understand basic french and spanish 😊.
+- I am ex AltSchool student.
+- 🌱 I’m currently learning TypeScript and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume]() and contact me by emailing kaytorah55@gmail.com.
+- 💼 Job interests: Front Engineer, (Intern or Entry level).
+- 📫 You can [view my resume]() and contact me by emailing itoro.ujames@gmail.com.
 
 ---
 
